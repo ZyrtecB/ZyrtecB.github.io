@@ -17,8 +17,8 @@ BS: Biology and Pre-Medicine
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+<!-- `2012`
+Name of Award, Organization -->
 
 ## Publications
 
