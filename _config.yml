@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Allegra Tennis
   avatar: bio-photo.jpg
-  bio: "Hello"
+  bio: "AKA Zyrtec Badminton"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: 'ZyrtecBadminton'
+  twitter: ZyrtecBadminton
   linkedin: #username
   github: #username
   orcid: '0000-0002-0964-8853'
