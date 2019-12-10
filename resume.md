@@ -7,13 +7,13 @@ Science and Engineering Outreach Librarian at University of Rochester
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017`
+__University of Wisconsin-Madison__
+MLS
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2011`
+__Iowa Wesleyan College__
+BS: Biology and Pre-Medicine
 
 ## Awards
 
@@ -26,11 +26,11 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
+<!-- `1994`
 Article Title, Journal Title
 
 `1994`
-Article Title, Journal Title
+Article Title, Journal Title -->
 
 ### Books
 
