@@ -15,6 +15,30 @@ owner:
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
+  facebook: #username
+  instagram: #username
+  bing-verify:
+  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  disqus-shortname:
   instagram: ZyrtecBadminton
 
 
