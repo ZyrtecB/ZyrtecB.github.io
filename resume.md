@@ -24,13 +24,13 @@ Name of Award, Organization
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
-<!-- `1994`
+`1994`
 Article Title, Journal Title
 
 `1994`
-Article Title, Journal Title -->
+Article Title, Journal Title
 
 ### Books
 
@@ -38,12 +38,12 @@ Article Title, Journal Title -->
 Book Title, Journal Title
 
 `1994`
-Book Title, Journal Title
+Book Title, Journal Title -->
 
 
 ## Presentations
 
-`1994`
+<!-- `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
@@ -59,7 +59,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task
+- Task -->
 
 
 
