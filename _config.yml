@@ -11,10 +11,10 @@ owner:
   bio: "Hello"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: ZyrtecBadminton
+  twitter: 'ZyrtecBadminton'
   linkedin: #username
   github: #username
-  orcid: 0000-0002-0964-8853
+  orcid: '0000-0002-0964-8853'
   researchgate: #username
   mendeley: #username
   google:
@@ -39,7 +39,7 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
-  instagram: ZyrtecBadminton
+  instagram: 'ZyrtecBadminton'
 
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
